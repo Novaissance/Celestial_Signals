@@ -1,0 +1,17 @@
+{
+    "market": {
+        "symbols": ["bitcoin", "ethereum"],
+        "update_interval": 300,
+        "data_provider": "coingecko"
+    },
+    "planetary": {
+        "aspects": ["conjunction", "opposition", "trine"],
+        "planets": ["sun", "moon", "mars", "jupiter"],
+        "max_orb": 5
+    },
+    "signals": {
+        "threshold": 0.75,
+        "min_strength": 0.5,
+        "cooldown_period": 3600
+    }
+}
