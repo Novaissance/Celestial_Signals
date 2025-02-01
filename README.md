@@ -8,4 +8,4 @@ Key features:
 - Comprehensive planetary aspect calculations
 - Real-time market data integration
 - JSON schema support for signal configuration
-- Extensible backtesting framework
+- Extensible backtesting framework 
